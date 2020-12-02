@@ -1,8 +1,10 @@
-# 2020-woowacource-pro 
+# 2020-woowacource-pro- :rocket: 가즈아
 
 우아한테크캠프 Pro 과정 / *65만원* / *2020년 11월 30일(월) ~ 2021년 1월 29일(금) (총 9주간) 매주 목요일 오후 7시 30분~ 10시30분*
 
-[마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601) (<- 요거 덕분에 정리 가능)
+[마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601) (<- 요거 덕분에 정리 가능 #달고 스페이스를 해야되네ㅋㅋ)
+
+[나도 이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella: (<-재밌네ㅋㅋ) 
 
 - 용도 : *9주간 학습 정리 자료 및 학습 서포트 참고 URL 수집 *  
 
