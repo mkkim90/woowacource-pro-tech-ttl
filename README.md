@@ -27,6 +27,17 @@
 ### Intellij IDEA
 --------
 
+[Window 기준]
+
+- [설치](https://goddaehee.tistory.com/195)
+
+- [UTF-8 인코딩 설정](https://goddaehee.tistory.com/248) (<- 그래도 깨지면 idea64.exe.vmoptions 파일에서  *-Dconsole.encoding=UTF-8* 설정하고 **File -> Invalidate caches** 하고 재시작.. 그래도 한글깨지면.. :scream: )
+
+- [Junit @DisplayName 노출 안될때](http://jmlim.github.io/intellij/2020/03/02/intellij-junit5-display-name-did-not-show-issue/) (<- **Build, Execution, Deployment -> Build Tools -> Gradle** 로 이동한 다음 **Run tests using** 을 **Gradle -> Intellij IDE** 로 수정) ( <- 그래도 안되면 **IntelliJ - Preferences - Editor - Inspections** junit 검색해서 전체 항목 체크 후 OK 누르니깐 됐다 ) 
+
+- [단축키](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html?_ga=2.84015007.705536930.1606876507-137550075.1606095321) (<- 공식 문서 같은데.. 동영상도 되는데 한글로 번역도 되네? ) 
+우선 단축키 Ctrl + Shift + A 누르면 검색창 뜸 그리고.. Ctrl+Alt+L 누르면 코드 자동 정렬됨.. 그리고 Alt + Enter 누르면 파일 import됨 나도 나머지는 Tab과 마우스를 활용한다..ㅠㅠ
+
 ### Junit5
 --------
 
@@ -54,11 +65,11 @@ https://www.baeldung.com/java-beforeall-afterall-non-static
   #### 설치
 
 
-[깃 설치](https://git-scm.com/downloads)
+- [깃 설치](https://git-scm.com/downloads)
 
-[깃 데스크탑 설치](https://desktop.github.com/)
+- [깃 데스크탑 설치](https://desktop.github.com/)
 
-[참고용 보면서 설치](https://opentutorials.org/course/2708/15129) <- OS 별로 다있음
+- [참고용 보면서 설치](https://opentutorials.org/course/2708/15129) <- OS 별로 다있음
 
 
   #### 주요 명령어
