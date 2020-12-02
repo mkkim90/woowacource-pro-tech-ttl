@@ -51,8 +51,8 @@ https://www.baeldung.com/java-beforeall-afterall-non-static
 ### Git
 --------
 
-#### 설치
---------
+  #### 설치
+
 
 [깃 설치](https://git-scm.com/downloads)
 
@@ -61,8 +61,8 @@ https://www.baeldung.com/java-beforeall-afterall-non-static
 [참고용 보면서 설치](https://opentutorials.org/course/2708/15129) <- OS 별로 다있음
 
 
-#### 주요 명령어
---------
+  #### 주요 명령어
+
 - git init : git 생성하기
 - git clone git_path : 코드가져오기
 - git checkout *branch_name* : 브랜치 선택하기
