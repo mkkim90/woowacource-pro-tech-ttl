@@ -34,13 +34,14 @@
 
 	- 외부코드 사용하기 
 		
+		- Sensors를 추가함으로써 필요한 인터페이스 하나만 노출하는 것도 가능
+		- 또 하나의 장점은 Sensors 내부의 자료구조가 Map이 아닌 다른 자료구조로 변경 되더라도 외부에 변경이 발생하지 않음
+		- 경계 인터페이스인 Map을 Sensord 라는 클래스 안으로 숨긴다.
+		
 ```
 Map<Integer, Sensor> sensors = new HashMap<>();
 Sensor s = sensors.get(sensorId);
 ```
-		
-		- 경계 인터페이스인 Map을 Sensord 라는 클래스 안으로 숨긴다.
-
 
 ```
 public class Sensors {
@@ -51,10 +52,6 @@ public class Sensors {
 	}
 }
 ```
-
-
-		- Sensors를 추가함으로써 필요한 인터페이스 하나만 노출하는 것도 가능
-		- 또 하나의 장점은 Sensors 내부의 자료구조가 Map이 아닌 다른 자료구조로 변경 되더라도 외부에 변경이 발생하지 않음
 		
 ```
 public class Sensors {
@@ -65,5 +62,3 @@ public class Sensors {
 	}
 }
 ```
-
-		
