@@ -130,7 +130,8 @@ https://medium.com/@pks2974/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A
 
 
 ## 5주차
-
+https://jsonpath.com/
+https://github.com/cheese10yun/spring-guide/blob/master/docs/test-guide.md#%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5
 
 ## 6주차
 
