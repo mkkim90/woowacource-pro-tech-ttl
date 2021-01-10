@@ -39,7 +39,7 @@
 
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
-|:rocket:1단계 - 학습테스트 실습|[링크](https://github.com/next-step/java-racingcar/pull/1610)|[링크]()|
+|:rocket:1단계 - 학습테스트 실습|[링크](https://github.com/next-step/java-racingcar/pull/1610)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8/1%EB%8B%A8%EA%B3%84_%ED%95%99%EC%8A%B5%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%8A%B5.md)|
 |:rocket:2단계 - 문자열 계산기|[링크](https://github.com/next-step/java-racingcar/pull/1676)|[링크]()|
 |:rocket:3단계 - 자동차 경주|[링크](https://github.com/next-step/java-racingcar/pull/1753)|[링크]()|
 |:rocket:4단계 - 자동차 경주(우승자)|[링크](https://github.com/next-step/java-racingcar/pull/1773)|[링크]()|
@@ -126,7 +126,7 @@ https://www.baeldung.com/java-beforeall-afterall-non-static
 
 
   #### 주요 명령어
-
+```
 - git init : git 생성하기
 - git clone git_path : 코드가져오기
 - git checkout *branch_name* : 브랜치 선택하기
@@ -151,7 +151,7 @@ https://www.baeldung.com/java-beforeall-afterall-non-static
 - git stash / git stash save “description” : 작업코드 임시저장하고 브랜치 바꾸기
 - git stash pop : 마지막으로 임시저장한 작업코드 가져오기
 - git branch — set-upstream-to=remote_path/branch_name : git pull no tracking info 에러해결
-
+```
 
 https://backlog.com/git-tutorial/kr/ 
 
