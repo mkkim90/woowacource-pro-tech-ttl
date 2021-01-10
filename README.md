@@ -20,8 +20,8 @@
 
 
 - 객체지향 생활 체조 원칙 인용구 되새김
-----------
-"
+
+```
   1. 한 메서드에 오직 한 단계의 들여쓰기(indent)만 한다.
   2. else 예약어를 쓰지 않는다.
   3. 모든 원시값과 문자열을 포장한다.
@@ -31,9 +31,45 @@
   7. 3개 이상의 인스턴스 변수를 가진 클래스를 쓰지 않는다.
   8. 일급 콜렉션을 쓴다.
   9. 게터/세터/프로퍼티를 쓰지 않는다.
-"
-----------
+```
+
 ## 리뷰 모음 
+
+### 자동차 경주-단위테스트
+
+|구분|리뷰 피드백|요약 정리|
+|---------|------|---|
+|:rocket:1단계 - 학습테스트 실습|[링크](https://github.com/next-step/java-racingcar/pull/1610)|[링크]()|
+|:rocket:2단계 - 문자열 계산기|[링크](https://github.com/next-step/java-racingcar/pull/1676)|[링크]()|
+|:rocket:3단계 - 자동차 경주|[링크](https://github.com/next-step/java-racingcar/pull/1753)|[링크]()|
+|:rocket:4단계 - 자동차 경주(우승자)|[링크](https://github.com/next-step/java-racingcar/pull/1773)|[링크]()|
+|:rocket:5단계 - 자동차 경주(리팩토링)|[링크](https://github.com/next-step/java-racingcar/pull/1783)|[링크]()|
+
+### 로또-TDD
+
+|구분|리뷰 피드백|요약 정리|
+|---------|------|---|
+|:rocket:1단계 - 문자열 덧셈 계산기|[링크](https://github.com/next-step/java-lotto/pull/1146)|[링크]()|
+|:rocket:2단계 - 로또(자동)|[링크](https://github.com/next-step/java-lotto/pull/1170)|[링크]()|
+|:rocket:3단계 - 로또(2등)|[링크](https://github.com/next-step/java-lotto/pull/1190)|[링크]()|
+|:rocket:4단계 - 로또(수동)|[링크](https://github.com/next-step/java-lotto/pull/1194)|[링크]()|
+
+### JPA
+
+|구분|리뷰 피드백|요약 정리|
+|---------|------|---|
+|:rocket:1단계 - 엔티티 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/25)|[링크]()|
+|:rocket:2단계 - 연관 관계 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/71)|[링크]()|
+|:rocket:3단계 - 다대다 연관 관계 리팩토링|[링크](https://github.com/next-step/jwp-jpa/pull/88)|[링크]()|
+
+### 인수 테스트 주도 개발
+
+|구분|리뷰 피드백|요약 정리|
+|---------|------|---|
+|:rocket:1단계 - 지하철 노선 관리|[링크](https://github.com/next-step/jwp-jpa/pull/25)|[링크]()|
+|:rocket:2단계 - 지하철 노선 구간 조회|[링크](https://github.com/next-step/jwp-jpa/pull/71)|[링크]()|
+|:rocket:3단계 - 지하철 노선에 구간 등록|[링크](https://github.com/next-step/jwp-jpa/pull/88)|[링크]()|
+
 ----------
 
 ## 1주차
