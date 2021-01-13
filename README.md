@@ -3,6 +3,7 @@
 우아한테크캠프 Pro 과정 / *65만원* / *2020년 11월 30일(월) ~ 2021년 1월 29일(금) (총 9주간) 매주 목요일 오후 7시 30분~ 10시30분*
 
 [나도 마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+[나도 마크다운2] (https://dooray.com/htmls/guides/markdown_ko_KR.html)
 
 [나도 이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella:
 
@@ -69,6 +70,7 @@
 |:rocket:1단계 - 지하철 노선 관리|[링크](https://github.com/next-step/jwp-jpa/pull/25)|[링크]()|
 |:rocket:2단계 - 지하철 노선 구간 조회|[링크](https://github.com/next-step/jwp-jpa/pull/71)|[링크]()|
 |:rocket:3단계 - 지하철 노선에 구간 등록|[링크](https://github.com/next-step/jwp-jpa/pull/88)|[링크]()|
+|:rocket:4단계 - 지하철 노선에 구간 제거|[링크](https://github.com/next-step/atdd-subway-admin/pull/119)|[링크]()|
 
 ----------
 
