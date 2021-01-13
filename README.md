@@ -154,7 +154,8 @@ https://github.com/cheese10yun/spring-guide/blob/master/docs/test-guide.md#%ED%8
 
 ## 6주차
 
-
+[intelliJ .http 사용](https://jojoldu.tistory.com/266)
+[lombok ](https://kwonnam.pe.kr/wiki/java/lombok/pitfall)
 ## 7주차
 
 
