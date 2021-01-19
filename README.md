@@ -3,7 +3,8 @@
 우아한테크캠프 Pro 과정 / *65만원* / *2020년 11월 30일(월) ~ 2021년 1월 29일(금) (총 9주간) 매주 목요일 오후 7시 30분~ 10시30분*
 
 [나도 마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-[나도 마크다운2] (https://dooray.com/htmls/guides/markdown_ko_KR.html)
+
+[나도 마크다운2](https://dooray.com/htmls/guides/markdown_ko_KR.html)
 
 [나도 이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella:
 
