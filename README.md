@@ -141,6 +141,12 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 
 ## [2주차 학습](https://github.com/mkkim90/2020-woowacource-pro/blob/main/week2/review.md)
 
+### 단위테스트, TDD 익히기
+
+```
+I find that writing unit tests actually increases my programming speed. - Martin Fowler
+```
+
 ## 3주차
 
 
