@@ -84,6 +84,7 @@
 
 ### Slack
 --------
+- [Mac기준 설치](https://slack.com/intl/ko-kr/downloads/mac?geocode=ko-kr)
 
 ### Intellij IDEA
 --------
