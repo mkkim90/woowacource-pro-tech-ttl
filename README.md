@@ -80,7 +80,7 @@
 
 ----------
 
-## 1주차
+## 1주차 : 툴 익히기
 
 ### Slack
 - [Mac기준 설치](https://slack.com/intl/ko-kr/downloads/mac?geocode=ko-kr)
@@ -99,10 +99,16 @@
 
 [Mac 기준]
 
-- [m1 지원 링크](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
-- [mac 다운로드 링크](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
+- [m1 지원](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
+- [mac 다운로드](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
 - [mac 단축키](https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 
+```
+M1 노트북인 경우는 실리콘 사용
+그외는 intel 사용
+
+Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
+```
 <img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/intelliJ_mac_download.png" width="100%" title="mac설치" alt=""></img><br/>
 <img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/intellij_Ultimate_Community.png" width="100%" title="mac설치" alt=""></img><br/>
 
