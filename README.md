@@ -113,8 +113,6 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 <img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/intellij_Ultimate_Community.png" width="100%" title="mac설치" alt=""></img><br/>
 
 ### Git
-
-#### 설치
   
 - [Git 왜 쓰지](https://blog.naver.com/mkzzang0928/221435795155)
 
@@ -127,6 +125,12 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 - [주요 명령어](https://github.com/mkkim90/2020-woowacource-pro/blob/main/git/%EC%A3%BC%EC%9A%94_%EB%AA%85%EB%A0%B9%EC%96%B4_%EC%A0%95%EB%A6%AC.md)
 
 - [누구나 쉽게 이해할 수 있는 git 입문](https://backlog.com/git-tutorial/kr/) 
+
+- [Git 커밋 컨벤션](https://doublesprogramming.tistory.com/256)
+
+- [Git flow 코드 리뷰 ](https://github.com/mkkim90/2020-woowacource-pro/blob/main/git/code_reviewer_flow.md)
+
+- [git flow 배포](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 
 
 ## 2주차
