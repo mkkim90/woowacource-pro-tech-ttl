@@ -74,8 +74,9 @@
 
 ----------
 
-## 1주차 : 툴 익히기 :rocket: 
-[학습 정리](https://github.com/mkkim90/2020-woowacource-pro/blob/main/week1/review.md)
+## [1주차 학습](https://github.com/mkkim90/2020-woowacource-pro/blob/main/week1/review.md)
+
+### 툴 익히기 :rocket: 
 ```
 svn/eclipse/sts/nateon/window -> git/intellij/slack/mac 전환
 익숙한 툴보다는 생산성을 높일 수 있는 툴을 사용하자.
@@ -138,8 +139,7 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 
 - [이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella:
 
-## 2주차
-[학습](https://github.com/mkkim90/2020-woowacource-pro/blob/main/week2/review.md)
+## [2주차 학습](https://github.com/mkkim90/2020-woowacource-pro/blob/main/week2/review.md)
 
 ## 3주차
 
