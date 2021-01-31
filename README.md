@@ -74,9 +74,9 @@
 
 ----------
 
-## 1주차 : 툴 익히기
+## 1주차 : 툴 익히기 :rocket:
 ```
-svn/eclipse/sts/nateon/window -> git/intellij/slack/mac 전환 :rocket:
+svn/eclipse/sts/nateon/window -> git/intellij/slack/mac 전환
 익숙한 툴보다는 생산성을 높일 수 있는 툴을 사용하자.
 ```
 ### Slack
