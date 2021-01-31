@@ -41,7 +41,7 @@
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
 |:rocket:1단계 - 학습테스트 실습|[링크](https://github.com/next-step/java-racingcar/pull/1610)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8/1%EB%8B%A8%EA%B3%84_%ED%95%99%EC%8A%B5%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%8A%B5.md)|
-|:rocket:2단계 - 문자열 계산기|[링크](https://github.com/next-step/java-racingcar/pull/1676)|[링크]()|
+|:rocket:2단계 - 문자열 계산기|[링크](https://github.com/next-step/java-racingcar/pull/1676)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8/2%EB%8B%A8%EA%B3%84_%EB%AC%B8%EC%9E%90%EC%97%B4_%EA%B3%84%EC%82%B0%EA%B8%B0_%EC%8B%A4%EC%8A%B5.md)|
 |:rocket:3단계 - 자동차 경주|[링크](https://github.com/next-step/java-racingcar/pull/1753)|[링크]()|
 |:rocket:4단계 - 자동차 경주(우승자)|[링크](https://github.com/next-step/java-racingcar/pull/1773)|[링크]()|
 |:rocket:5단계 - 자동차 경주(리팩토링)|[링크](https://github.com/next-step/java-racingcar/pull/1783)|[링크]()|
@@ -74,7 +74,8 @@
 
 ----------
 
-## 1주차 : 툴 익히기 :rocket:
+## 1주차 : 툴 익히기 :rocket: 
+[학습 정리](https://github.com/mkkim90/2020-woowacource-pro/blob/main/week1/review.md)
 ```
 svn/eclipse/sts/nateon/window -> git/intellij/slack/mac 전환
 익숙한 툴보다는 생산성을 높일 수 있는 툴을 사용하자.
@@ -138,7 +139,7 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 - [이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella:
 
 ## 2주차
-
+[학습](https://github.com/mkkim90/2020-woowacource-pro/blob/main/week2/review.md)
 
 ## 3주차
 
