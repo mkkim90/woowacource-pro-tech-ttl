@@ -98,6 +98,13 @@
 - [단축키](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html?_ga=2.84015007.705536930.1606876507-137550075.1606095321) (<- 공식 문서 같은데.. 동영상도 되는데 한글로 번역도 되네? ) 
 우선 단축키 Ctrl + Shift + A 누르면 검색창 뜸 그리고.. Ctrl+Alt+L 누르면 코드 자동 정렬됨.. 그리고 Alt + Enter 누르면 파일 import됨 나도 나머지는 Tab과 마우스를 활용한다..ㅠㅠ
 
+[Mac 기준]
+- 설치
+[m1 지원 링크](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
+
+[mac 다운로드 링크](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
+
+
 ### Git
 --------
 
