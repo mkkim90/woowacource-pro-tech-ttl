@@ -132,6 +132,7 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 
 - [git flow 배포](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 
+- [생활코딩 git](https://opentutorials.org/course/2708)
 
 ## 2주차
 
