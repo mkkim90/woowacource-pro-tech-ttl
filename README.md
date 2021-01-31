@@ -83,12 +83,9 @@
 ## 1주차
 
 ### Slack
---------
 - [Mac기준 설치](https://slack.com/intl/ko-kr/downloads/mac?geocode=ko-kr)
 
 ### Intellij IDEA
---------
-
 [Window 기준]
 
 - [설치](https://goddaehee.tistory.com/195)
