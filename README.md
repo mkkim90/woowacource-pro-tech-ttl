@@ -103,7 +103,7 @@
 - [mac 다운로드 링크](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
 - [mac 단축키](https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 
-<img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/intelliJ_mac_download.png" width="100%" title=“mac설치" alt=""></img><br/>
+<img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/intelliJ_mac_download.png" width="100%" title="mac설치" alt=""></img><br/>
 <img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/intellij_Ultimate_Community.png" width="100%" title="mac설치" alt=""></img><br/>
 
 ### Git
