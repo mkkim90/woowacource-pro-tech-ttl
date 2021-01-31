@@ -1,16 +1,17 @@
 # 2020-woowacource-pro- :rocket: 가즈아
 
 ## 우아한테크캠프 Pro 과정
-
+```
+- 경력직 백엔드 교육 과정
 - 65만원
-
 - 2020년 11월 30일(월) ~ 2021년 1월 29일(금) (총 9주간) 매주 목요일 오후 7시 30분~ 10시30분
+```
 
-[나도 마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+[마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-[나도 마크다운2](https://dooray.com/htmls/guides/markdown_ko_KR.html)
+[마크다운2](https://dooray.com/htmls/guides/markdown_ko_KR.html)
 
-[나도 이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella:
+[이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella:
 
 - 용도 : *9주간 학습 정리 자료 및 학습 서포트 참고 URL 수집 *  
 
@@ -99,10 +100,10 @@
 우선 단축키 Ctrl + Shift + A 누르면 검색창 뜸 그리고.. Ctrl+Alt+L 누르면 코드 자동 정렬됨.. 그리고 Alt + Enter 누르면 파일 import됨 나도 나머지는 Tab과 마우스를 활용한다..ㅠㅠ
 
 [Mac 기준]
-- 설치
-[m1 지원 링크](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
 
-[mac 다운로드 링크](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
+- [m1 지원 링크](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
+- [mac 다운로드 링크](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
+- [mac 단축키](https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 
 
 ### Git
