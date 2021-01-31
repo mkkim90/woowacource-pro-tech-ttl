@@ -149,21 +149,21 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 I find that writing unit tests actually increases my programming speed. - Martin Fowler
 ```
 
-[테스트원칙_Right-BICEP](https://github.com/mkkim90/006814/blob/master/chapter6_Right-BICEP.md)
+- [TDD란](https://nesoy.github.io/articles/2017-01/TDD)
 
-[좋은테스트의 FIRST 속성](https://github.com/mkkim90/006814/blob/master/chapter5_First.md)
+- [TDD좋은 팁](https://medium.com/@rinae/tdd-test-driven-development-%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%A9%B4%EC%84%9C-%EC%B0%B8%EA%B3%A0%ED%95%98%EA%B8%B0-%EC%A2%8B%EC%9D%80-%ED%8C%81-10%EA%B0%80%EC%A7%80-d8cf46ae1806)
 
-[설마 아직도 테스트 코드를 작성 안 하시나요?](https://ssowonny.medium.com/%EC%84%A4%EB%A7%88-%EC%95%84%EC%A7%81%EB%8F%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1-%EC%95%88-%ED%95%98%EC%8B%9C%EB%82%98%EC%9A%94-b54ec61ef91a) -> 뜨끔
+- [설마 아직도 테스트 코드를 작성 안 하시나요?](https://ssowonny.medium.com/%EC%84%A4%EB%A7%88-%EC%95%84%EC%A7%81%EB%8F%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1-%EC%95%88-%ED%95%98%EC%8B%9C%EB%82%98%EC%9A%94-b54ec61ef91a) -> 뜨끔
 
-[단위테스트가이드](https://brunch.co.kr/@pubjinson/16)
+- [테스트원칙_Right-BICEP](https://github.com/mkkim90/006814/blob/master/chapter6_Right-BICEP.md)
 
-[단위테스트생각](https://blog.outsider.ne.kr/1275)
+- [좋은테스트의 FIRST 속성](https://github.com/mkkim90/006814/blob/master/chapter5_First.md)
 
-[테스트하기 좋은 코드](http://jwchung.github.io/testing-oh-my)
+- [단위테스트가이드](https://brunch.co.kr/@pubjinson/16)
 
-[TDD란](https://nesoy.github.io/articles/2017-01/TDD)
+- [단위테스트생각](https://blog.outsider.ne.kr/1275)
 
-[TDD좋은 팁](https://medium.com/@rinae/tdd-test-driven-development-%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%A9%B4%EC%84%9C-%EC%B0%B8%EA%B3%A0%ED%95%98%EA%B8%B0-%EC%A2%8B%EC%9D%80-%ED%8C%81-10%EA%B0%80%EC%A7%80-d8cf46ae1806)
+- [테스트하기 좋은 코드](http://jwchung.github.io/testing-oh-my)
 
 ## 3주차
 
