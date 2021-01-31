@@ -7,12 +7,6 @@
 2020년 11월 30일(월) ~ 2021년 1월 29일(금) (총 9주간) 매주 목요일 오후 7시 30분~ 10시30분
 ```
 
-[마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-
-[마크다운2](https://dooray.com/htmls/guides/markdown_ko_KR.html)
-
-[이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella:
-
 - 용도 : *9주간 학습 정리 자료 및 학습 서포트 참고 URL 수집 *  
 
 - 마인드셋 : *뚜렷한 목적의식과 학습에 집중할 수 있도록 환경조성하자. *
@@ -82,6 +76,9 @@
 
 ## 1주차 : 툴 익히기
 
+svn/eclipse/sts/nateon/window -> git/intellij/slack/mac 전환 :rocket:
+익숙한 툴보다는 생산성을 높일 수 있는 툴을 사용하자.
+
 ### Slack
 - [Mac기준 설치](https://slack.com/intl/ko-kr/downloads/mac?geocode=ko-kr)
 
@@ -133,6 +130,12 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 - [git flow 배포](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 
 - [생활코딩 git](https://opentutorials.org/course/2708)
+
+- [ReadMe 마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+- [ReadMe 마크다운2](https://dooray.com/htmls/guides/markdown_ko_KR.html)
+
+- [이모티콘](https://www.webfx.com/tools/emoji-cheat-sheet/) :rocket::car::thumbsup::sunglasses::clap::umbrella:
 
 ## 2주차
 
