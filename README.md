@@ -52,7 +52,7 @@
 
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
-|:rocket:1단계 - 문자열 덧셈 계산기|[링크](https://github.com/next-step/java-lotto/pull/1146)|[링크]()|
+|:rocket:1단계 - 문자열 덧셈 계산기|[링크](https://github.com/next-step/java-lotto/pull/1146)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EB%A1%9C%EB%98%90_TDD/1%EB%8B%A8%EA%B3%84_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8D%A7%EC%85%88.md)|
 |:rocket:2단계 - 로또(자동)|[링크](https://github.com/next-step/java-lotto/pull/1170)|[링크]()|
 |:rocket:3단계 - 로또(2등)|[링크](https://github.com/next-step/java-lotto/pull/1190)|[링크]()|
 |:rocket:4단계 - 로또(수동)|[링크](https://github.com/next-step/java-lotto/pull/1194)|[링크]()|
