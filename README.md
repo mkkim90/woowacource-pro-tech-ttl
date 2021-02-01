@@ -1,4 +1,4 @@
-# 2020-woowacource-pro- :rocket: 가즈아
+# 2020-woowacource-pro-1 :rocket: 가즈아
 
 ## 우아한테크캠프 Pro 과정
 ```
