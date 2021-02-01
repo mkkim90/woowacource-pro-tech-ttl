@@ -167,7 +167,9 @@ I find that writing unit tests actually increases my programming speed. - Martin
 
 ## 3주차 
 ### JPA 익히기
-
+```
+jpa란? Java Persistence API 자바 진영의 ORM 기술 표준
+```
 - [JPA 개요](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EA%B0%9C%EC%9A%94.md)
 
 - [JPA 매핑 어노테이션](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EB%A7%A4%ED%95%91.md)
@@ -185,12 +187,12 @@ I find that writing unit tests actually increases my programming speed. - Martin
 
 ## 5주차
 https://jsonpath.com/
-
 https://github.com/cheese10yun/spring-guide/blob/master/docs/test-guide.md#%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EB%9E%B5
 
 ## 6주차
 
 [intelliJ .http 사용](https://jojoldu.tistory.com/266)
+
 [lombok ](https://kwonnam.pe.kr/wiki/java/lombok/pitfall)
 ## 7주차
 
