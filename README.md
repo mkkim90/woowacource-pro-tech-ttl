@@ -178,6 +178,8 @@ I find that writing unit tests actually increases my programming speed. - Martin
 
 - [자바ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233)
 
+- [JDBC vs SQLMapper vs ORM](https://www.youtube.com/watch?v=mezbxKGu68Y&feature=youtu.be)
+
 ## 4주차
 
 
