@@ -165,6 +165,8 @@ I find that writing unit tests actually increases my programming speed. - Martin
 
 - [테스트하기 좋은 코드](http://jwchung.github.io/testing-oh-my)
 
+- [TDD 변절자 : TDD는 설계기법이 아니다](https://medium.com/@mjspring/%EB%B2%88%EC%97%AD-tdd-%EB%B3%80%EC%A0%88%EC%9E%90-tdd%EB%8A%94-%EC%84%A4%EA%B3%84-%EA%B8%B0%EB%B2%95%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4-2519b05474d0)
+
 ## 3주차 
 ### JPA 익히기
 ```
