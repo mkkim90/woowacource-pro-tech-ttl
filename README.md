@@ -170,6 +170,7 @@ I find that writing unit tests actually increases my programming speed. - Martin
 
 - [JPA 개요](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EA%B0%9C%EC%9A%94.md)
 
+- [JPA 매핑 어노테이션](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EB%A7%A4%ED%95%91.md)
 
 
 
