@@ -165,7 +165,12 @@ I find that writing unit tests actually increases my programming speed. - Martin
 
 - [테스트하기 좋은 코드](http://jwchung.github.io/testing-oh-my)
 
-## 3주차
+## 3주차 
+### JPA 익히기
+
+- [JPA 개요](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EA%B0%9C%EC%9A%94.md)
+
+
 
 
 ## 4주차
