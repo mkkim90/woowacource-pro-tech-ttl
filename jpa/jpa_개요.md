@@ -22,11 +22,7 @@
 
 #### JPA는 애플리케이션과 JDBC 사이에서 동작
 
-
-<img src="" width="100%" ></img><br/>
-
-
-
+<img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/JPA_JDBCAPI.PNG" width="100%" ></img><br/>
 ### jpa를 왜 사용해야 할까?
 - SQL 중심적인 개발에서 객체 중심으로 개발
 - 생산성
@@ -39,3 +35,9 @@
 ### 데이터베이스 방언
 - jpa는 특정 데이터베이스에 종속적이지 않은 기술
 - 방언 : sql 표준을 지키지 않거나 특정 데이터베이스만의 고유한 기능
+
+<img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/JPA_%EB%B0%A9%EC%96%B8.PNG" width="100%" ></img><br/>
+
+---------------------------
+출처 : 자바 ORM 표준 JPA 프로그래밍
+
