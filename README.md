@@ -192,6 +192,13 @@ jpa란? Java Persistence API 자바 진영의 ORM 기술 표준
 
 - [JPA Spring Data JPA](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/spring_data_jpa.md)
 
+- [N+1 해결방안](https://jojoldu.tistory.com/165?category=637935)
+
+- [N+1 해결방안2](https://meetup.toast.com/posts/87)
+
+- [N+1 해결방안3](https://cheese10yun.github.io/jpa-nplus-1/#null)
+
+
 ## 4주차
 
 
