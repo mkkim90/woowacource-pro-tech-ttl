@@ -176,7 +176,7 @@ jpa란? Java Persistence API 자바 진영의 ORM 기술 표준
 
 - [JPA 매핑 어노테이션](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EB%A7%A4%ED%95%91.md)
 
-- [JPA 영속성 컨텍스트](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EB%A7%A4%ED%95%91.md)
+- [JPA 영속성 컨텍스트](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EC%98%81%EC%86%8D%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 
 - [영속성 컨텍스트로 보는 JPA](https://www.slideshare.net/ssusere4d67c/jpa-56081624)
 
