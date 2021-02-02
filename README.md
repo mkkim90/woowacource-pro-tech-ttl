@@ -186,6 +186,8 @@ jpa란? Java Persistence API 자바 진영의 ORM 기술 표준
 
 - [JDBC vs SQLMapper vs ORM](https://www.youtube.com/watch?v=mezbxKGu68Y&feature=youtu.be)
 
+- [SpringDataJPA-Reference Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#preface)
+
 ## 4주차
 
 
