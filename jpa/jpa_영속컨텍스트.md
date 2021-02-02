@@ -45,9 +45,27 @@ assertThat(station1 == station2).isTrue();
 
 ### 지연 로딩
 
+- 지연로딩 : 객체가 실제 사용될 때 로딩
+```
+Member member = memberDAO.find(memberId); -> SELECT * FROM MEMBER
+Team team = member.getTeam();
+String teamName = team.getName(); -> SELECT * FROM TEAM
+```
 
+- 즉시로딩 : JOIN SQL로 한번에 연관된 객체까지 미리 조회
+```
+Member member = memberDAO.find(memberId); -> select ... FROM MEMBER JOIN TEAM ...
+```
 
-출처
+#### 주의
+- 가급적 지연로딩을 사용
+- 즉시 로딩을 적용하면 예상하지 못한 SQL이 발생
+- 즉시 로딩은 JPQL에서 N+1 문제를 일으킨다.
+- @ManyToOne, @OneToOne은 기본이 즉시 로딩 -> LAZY
+- @OneToMany, @ManyToMany는 기본이 지연로딩
 
-[nextstep](https://edu.nextstep.camp/) 
-[자바 ORM 표준 JPA 프로그래밍](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=240925953&gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxiXZYQ0zjTFXd5_mJjQhDWcq1uOjWn3SVSn-QInrzEIE30sZAtDYIaAmAGEALw_wcB)
+### 출처
+
+- [nextstep](https://edu.nextstep.camp/) 
+
+- [자바 ORM 표준 JPA 프로그래밍](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=240925953&gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxiXZYQ0zjTFXd5_mJjQhDWcq1uOjWn3SVSn-QInrzEIE30sZAtDYIaAmAGEALw_wcB)
