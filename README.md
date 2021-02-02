@@ -188,6 +188,8 @@ jpa란? Java Persistence API 자바 진영의 ORM 기술 표준
 
 - [SpringDataJPA-Reference Documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#preface)
 
+- [JPA Spring Data JPA](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/spring_data_jpa.md)
+
 ## 4주차
 
 
