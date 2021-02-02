@@ -61,9 +61,9 @@
 
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
-|:rocket:1단계 - 엔티티 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/25)|[링크]()|
-|:rocket:2단계 - 연관 관계 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/71)|[링크]()|
-|:rocket:3단계 - 다대다 연관 관계 리팩토링|[링크](https://github.com/next-step/jwp-jpa/pull/88)|[링크]()|
+|:rocket:1단계 - 엔티티 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/25)|[Coming soon]()|
+|:rocket:2단계 - 연관 관계 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/71)|[Coming soon]()|
+|:rocket:3단계 - 다대다 연관 관계 리팩토링|[링크](https://github.com/next-step/jwp-jpa/pull/88)|[Coming soon]()|
 
 ### 인수 테스트 주도 개발
 
@@ -175,6 +175,8 @@ jpa란? Java Persistence API 자바 진영의 ORM 기술 표준
 - [JPA 개요](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EA%B0%9C%EC%9A%94.md)
 
 - [JPA 매핑 어노테이션](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EB%A7%A4%ED%95%91.md)
+
+- [JPA 영속성 컨텍스트](https://github.com/mkkim90/2020-woowacource-pro/blob/main/jpa/jpa_%EB%A7%A4%ED%95%91.md)
 
 - [영속성 컨텍스트로 보는 JPA](https://www.slideshare.net/ssusere4d67c/jpa-56081624)
 
