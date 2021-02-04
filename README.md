@@ -113,6 +113,12 @@ Ultimate랑 Community를 해보니..유료가 좋긴한거 같다.
 <img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/intelliJ_mac_download.png" width="100%" title="mac설치" alt=""></img><br/>
 <img src="https://github.com/mkkim90/2020-woowacource-pro/blob/main/intelliJ/intellij_Ultimate_Community.png" width="100%" title="mac설치" alt=""></img><br/>
 
+
+[인텔리제이 사용 팁](https://github.com/cheese10yun/IntelliJ)
+
+
+[intelliJ .http 사용](https://jojoldu.tistory.com/266)
+
 ### Git
   
 - [Git 왜 쓰지](https://blog.naver.com/mkzzang0928/221435795155)
