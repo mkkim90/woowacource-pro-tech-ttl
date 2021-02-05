@@ -222,4 +222,4 @@ https://github.com/cheese10yun/spring-guide/blob/master/docs/test-guide.md#%ED%8
 
 
 ## 9주차
-[멀티모듈설계](https://woowabros.github.io/study/2019/07/01/multi-module.html)
+[멀티모듈 설계 이야기 with Spring, Gradle](https://woowabros.github.io/study/2019/07/01/multi-module.html)
