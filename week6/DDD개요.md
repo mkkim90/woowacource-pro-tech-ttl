@@ -26,7 +26,8 @@
   -벨류 타입은 불변
   -의미를 명확하게 표현하거나 두개 이상의 데이터가 개념적으로 하나인 경우 벨류 타입을 이용
   -항상 equlas() 메서드를 오버라이드할 것을 권고한다. 
-	  equals를 재정의하려거든 hashCode도 재정의하라 - Effective Java
+  - [equals를 재정의하려거든 hashCode도 재정의하라 ](https://woowacourse.github.io/javable/post/2020-07-29-equals-and-hashCode/)
+  - Effective Java
   -벨류 객체의 값을 변경하는 방법은 새로운 벨류 객체를 할당하는 것뿐이다. 
 
 ```
