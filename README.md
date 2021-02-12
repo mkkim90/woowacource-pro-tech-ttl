@@ -74,6 +74,24 @@
 |:rocket:3단계 - 지하철 노선에 구간 등록|[링크](https://github.com/next-step/atdd-subway-admin/pull/110)|[coming soon]()|
 |:rocket:4단계 - 지하철 노선에 구간 제거|[링크](https://github.com/next-step/atdd-subway-admin/pull/119)|[coming soon]()|
 
+### 인수 테스트 기반 TDD
+
+|구분|리뷰 피드백|요약 정리|
+|---------|------|---|
+|:rocket:1단계 - 인수 테스트 기반 리팩터링|[링크](https://github.com/next-step/atdd-subway-service/pull/74)|[coming soon]()|
+|:rocket:2단계 - 경로 조회 기능|[링크](https://github.com/next-step/atdd-subway-service/pull/84)|[coming soon]()|
+|:rocket:3단계 - 인증을 통한 기능 구현|[링크](https://github.com/next-step/atdd-subway-service/pull/102)|[coming soon]()|
+|:rocket:4단계 - 요금 조회|[링크](https://github.com/next-step/atdd-subway-service/pull/113)|[coming soon]()|
+
+### 레거시 코드 리팩터링
+
+|구분|리뷰 피드백|요약 정리|
+|---------|------|---|
+|:rocket:1단계 - 테스트를 통한 코드 보호|[링크](https://github.com/next-step/jwp-refactoring/pull/33)|[coming soon]()|
+|:rocket:2단계 - 서비스 리팩터링|[링크](https://github.com/next-step/jwp-refactoring/pull/57)|[coming soon]()|
+|:rocket:3단계 - 양방향을 단방향|[링크](https://github.com/next-step/jwp-refactoring/pull/65)|[coming soon]()|
+|:rocket:4단계 - multi module 적용|[링크](https://github.com/next-step/jwp-refactoring/pull/72)|[coming soon]()|
+
 ----------
 
 ## [1주차 학습](https://github.com/mkkim90/2020-woowacource-pro/blob/main/week1/review.md)
