@@ -69,10 +69,10 @@
 
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
-|:rocket:1단계 - 지하철 노선 관리|[링크](https://github.com/next-step/jwp-jpa/pull/25)|[링크]()|
-|:rocket:2단계 - 지하철 노선 구간 조회|[링크](https://github.com/next-step/jwp-jpa/pull/71)|[링크]()|
-|:rocket:3단계 - 지하철 노선에 구간 등록|[링크](https://github.com/next-step/jwp-jpa/pull/88)|[링크]()|
-|:rocket:4단계 - 지하철 노선에 구간 제거|[링크](https://github.com/next-step/atdd-subway-admin/pull/119)|[링크]()|
+|:rocket:1단계 - 지하철 노선 관리|[링크](https://github.com/next-step/atdd-subway-admin/pull/89)|[coming soon]()|
+|:rocket:2단계 - 지하철 노선 구간 조회|[링크](https://github.com/next-step/atdd-subway-admin/pull/98)|[coming soon]()|
+|:rocket:3단계 - 지하철 노선에 구간 등록|[링크](https://github.com/next-step/atdd-subway-admin/pull/110)|[coming soon]()|
+|:rocket:4단계 - 지하철 노선에 구간 제거|[링크](https://github.com/next-step/atdd-subway-admin/pull/119)|[coming soon]()|
 
 ----------
 
