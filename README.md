@@ -61,7 +61,7 @@
 
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
-|:rocket:1단계 - 엔티티 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/25)|[Coming soon]()|
+|:rocket:1단계 - 엔티티 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/25)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/JPA/1%EB%8B%A8%EA%B3%84_%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A7%A4%ED%95%91.md)|
 |:rocket:2단계 - 연관 관계 매핑|[링크](https://github.com/next-step/jwp-jpa/pull/71)|[Coming soon]()|
 |:rocket:3단계 - 다대다 연관 관계 리팩토링|[링크](https://github.com/next-step/jwp-jpa/pull/88)|[Coming soon]()|
 
