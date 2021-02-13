@@ -72,7 +72,7 @@
 |:rocket:1단계 - 지하철 노선 관리|[링크](https://github.com/next-step/atdd-subway-admin/pull/89)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C/1%EB%8B%A8%EA%B3%84_%EC%A7%80%ED%95%98%EC%B2%A0_%EB%85%B8%EC%84%A0_%EA%B4%80%EB%A6%AC.md)|
 |:rocket:2단계 - 지하철 노선 구간 조회|[링크](https://github.com/next-step/atdd-subway-admin/pull/98)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C/2%EB%8B%A8%EA%B3%84_%EC%A7%80%ED%95%98%EC%B2%A0_%EB%85%B8%EC%84%A0_%EA%B5%AC%EA%B0%84_%EC%A1%B0%ED%9A%8C.md)|
 |:rocket:3단계 - 지하철 노선에 구간 등록|[링크](https://github.com/next-step/atdd-subway-admin/pull/110)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C/3%EB%8B%A8%EA%B3%84_%EC%A7%80%ED%95%98%EC%B2%A0_%EB%85%B8%EC%84%A0%EC%97%90_%EA%B5%AC%EA%B0%84_%EB%93%B1%EB%A1%9D.md)|
-|:rocket:4단계 - 지하철 노선에 구간 제거|[링크](https://github.com/next-step/atdd-subway-admin/pull/119)|[coming soon]()|
+|:rocket:4단계 - 지하철 노선에 구간 제거|[링크](https://github.com/next-step/atdd-subway-admin/pull/119)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C/4%EB%8B%A8%EA%B3%84_%EC%A7%80%ED%95%98%EC%B2%A0_%EB%85%B8%EC%84%A0%EC%97%90_%EA%B5%AC%EA%B0%84_%EC%A0%9C%EA%B1%B0.md)|
 
 ### 인수 테스트 기반 TDD
 
