@@ -79,9 +79,15 @@
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
 |:rocket:1단계 - 인수 테스트 기반 리팩터링|[링크](https://github.com/next-step/atdd-subway-service/pull/74)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B8%B0%EB%B0%98_TDD/1%EB%8B%A8%EA%B3%84_%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B8%B0%EB%B0%98_%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81.md)|
-|:rocket:2단계 - 경로 조회 기능|[링크](https://github.com/next-step/atdd-subway-service/pull/84)|[coming soon]()|
-|:rocket:3단계 - 인증을 통한 기능 구현|[링크](https://github.com/next-step/atdd-subway-service/pull/102)|[coming soon]()|
-|:rocket:4단계 - 요금 조회|[링크](https://github.com/next-step/atdd-subway-service/pull/113)|[coming soon]()|
+|:rocket:2단계 - 경로 조회 기능|[링크](https://github.com/next-step/atdd-subway-service/pull/84)||
+|:rocket:3단계 - 인증을 통한 기능 구현|[링크](https://github.com/next-step/atdd-subway-service/pull/102)||
+|:rocket:4단계 - 요금 조회|[링크](https://github.com/next-step/atdd-subway-service/pull/113)||
+
+*요약*
+```
+경로 조회 / 인증 / 요금 관련하여 상속보다는 컴포지트(조합) 관점에서 개발 설계를 진행하였고, 캡술화를 하는 관점을 생각했음
+테스트를 통해 코드 보호하고 안정성있는 확장을 고려
+```
 
 ### 레거시 코드 리팩터링
 
@@ -91,6 +97,14 @@
 |:rocket:2단계 - 서비스 리팩터링|[링크](https://github.com/next-step/jwp-refactoring/pull/57)|[coming soon]()|
 |:rocket:3단계 - 양방향을 단방향|[링크](https://github.com/next-step/jwp-refactoring/pull/65)|[coming soon]()|
 |:rocket:4단계 - multi module 적용|[링크](https://github.com/next-step/jwp-refactoring/pull/72)|[coming soon]()|
+
+*요약*
+```
+리팩토링씩 한벌씩 작업하면서 
+이전 로직과 리팩토링 진행한 로직을 비교해가며 확장/제거 과정을 레이어별로 반복했다.
+  - 쿼리 정상동작 순서를 확인했음
+```
+
 
 ----------
 
