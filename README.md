@@ -69,7 +69,7 @@
 
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
-|:rocket:1단계 - 지하철 노선 관리|[링크](https://github.com/next-step/atdd-subway-admin/pull/89)|[coming soon]()|
+|:rocket:1단계 - 지하철 노선 관리|[링크](https://github.com/next-step/atdd-subway-admin/pull/89)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C/1%EB%8B%A8%EA%B3%84_%EC%A7%80%ED%95%98%EC%B2%A0_%EB%85%B8%EC%84%A0_%EA%B4%80%EB%A6%AC.md)|
 |:rocket:2단계 - 지하철 노선 구간 조회|[링크](https://github.com/next-step/atdd-subway-admin/pull/98)|[coming soon]()|
 |:rocket:3단계 - 지하철 노선에 구간 등록|[링크](https://github.com/next-step/atdd-subway-admin/pull/110)|[coming soon]()|
 |:rocket:4단계 - 지하철 노선에 구간 제거|[링크](https://github.com/next-step/atdd-subway-admin/pull/119)|[coming soon]()|
