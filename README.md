@@ -93,10 +93,10 @@
 
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
-|:rocket:1단계 - 테스트를 통한 코드 보호|[링크](https://github.com/next-step/jwp-refactoring/pull/33)|[coming soon]()|
-|:rocket:2단계 - 서비스 리팩터링|[링크](https://github.com/next-step/jwp-refactoring/pull/57)|[coming soon]()|
-|:rocket:3단계 - 양방향을 단방향|[링크](https://github.com/next-step/jwp-refactoring/pull/65)|[coming soon]()|
-|:rocket:4단계 - multi module 적용|[링크](https://github.com/next-step/jwp-refactoring/pull/72)|[coming soon]()|
+|:rocket:1단계 - 테스트를 통한 코드 보호|[링크](https://github.com/next-step/jwp-refactoring/pull/33)||
+|:rocket:2단계 - 서비스 리팩터링|[링크](https://github.com/next-step/jwp-refactoring/pull/57)||
+|:rocket:3단계 - 양방향을 단방향|[링크](https://github.com/next-step/jwp-refactoring/pull/65)||
+|:rocket:4단계 - multi module 적용|[링크](https://github.com/next-step/jwp-refactoring/pull/72)||
 
 *요약*
 ```
