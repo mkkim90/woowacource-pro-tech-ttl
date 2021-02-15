@@ -91,12 +91,12 @@
 
 ### 레거시 코드 리팩터링
 
-|구분|리뷰 피드백|요약 정리|
-|---------|------|---|
-|:rocket:1단계 - 테스트를 통한 코드 보호|[링크](https://github.com/next-step/jwp-refactoring/pull/33)||
-|:rocket:2단계 - 서비스 리팩터링|[링크](https://github.com/next-step/jwp-refactoring/pull/57)||
-|:rocket:3단계 - 양방향을 단방향|[링크](https://github.com/next-step/jwp-refactoring/pull/65)||
-|:rocket:4단계 - multi module 적용|[링크](https://github.com/next-step/jwp-refactoring/pull/72)||
+|구분|리뷰 피드백|
+|---------|------|
+|:rocket:1단계 - 테스트를 통한 코드 보호|[링크](https://github.com/next-step/jwp-refactoring/pull/33)|
+|:rocket:2단계 - 서비스 리팩터링|[링크](https://github.com/next-step/jwp-refactoring/pull/57)|
+|:rocket:3단계 - 양방향을 단방향|[링크](https://github.com/next-step/jwp-refactoring/pull/65)|
+|:rocket:4단계 - multi module 적용|[링크](https://github.com/next-step/jwp-refactoring/pull/72)|
 
 *요약*
 ```
@@ -126,13 +126,11 @@ svn/eclipse/sts/nateon/window -> git/intellij/slack/mac 전환
 
 - [설치](https://goddaehee.tistory.com/195)
 
-- [UTF-8 인코딩 설정](https://goddaehee.tistory.com/248) (<- 그래도 깨지면 idea64.exe.vmoptions 파일에서  *-Dconsole.encoding=UTF-8* 설정하고 **File -> Invalidate caches** 하고 재시작.. 그래도 한글깨지면.. :scream: )
+- [UTF-8 인코딩 설정](https://goddaehee.tistory.com/248)
 
-- [Junit @DisplayName 노출 안될때](http://jmlim.github.io/intellij/2020/03/02/intellij-junit5-display-name-did-not-show-issue/) (<- **Build, Execution, Deployment -> Build Tools -> Gradle** 로 이동한 다음 **Run tests using** 을 **Gradle -> Intellij IDE** 로 수정) ( <- 그래도 안되면 **IntelliJ - Preferences - Editor - Inspections** junit 검색해서 전체 항목 체크 후 OK 누르니깐 됐다 ) 
+- [Junit @DisplayName 노출 안될때](http://jmlim.github.io/intellij/2020/03/02/intellij-junit5-display-name-did-not-show-issue/)
 
-- [단축키](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html?_ga=2.84015007.705536930.1606876507-137550075.1606095321) (<- 공식 문서 같은데.. 동영상도 되는데 한글로 번역도 되네? ) 
-우선 단축키 Ctrl + Shift + A 누르면 검색창 뜸 그리고.. Ctrl+Alt+L 누르면 코드 자동 정렬됨.. 그리고 Alt + Enter 누르면 파일 import됨 나도 나머지는 Tab과 마우스를 활용한다..ㅠㅠ
-
+- [단축키](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html?_ga=2.84015007.705536930.1606876507-137550075.1606095321)
 [Mac 기준]
 
 - [m1 지원](https://blog.jetbrains.com/idea/2020/12/intellij-idea-2020-3-1/)
