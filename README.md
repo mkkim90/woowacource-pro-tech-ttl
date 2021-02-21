@@ -79,7 +79,7 @@
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
 |:rocket:1단계 - 인수 테스트 기반 리팩터링|[링크](https://github.com/next-step/atdd-subway-service/pull/74)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B8%B0%EB%B0%98_TDD/1%EB%8B%A8%EA%B3%84_%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B8%B0%EB%B0%98_%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81.md)|
-|:rocket:2단계 - 경로 조회 기능|[링크](https://github.com/next-step/atdd-subway-service/pull/84)||
+|:rocket:2단계 - 경로 조회 기능|[링크](https://github.com/next-step/atdd-subway-service/pull/84)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EC%9D%B8%EC%88%98_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B8%B0%EB%B0%98_TDD/2%EB%8B%A8%EA%B3%84_%EA%B2%BD%EB%A1%9C%20%EC%A1%B0%ED%9A%8C%20%EA%B8%B0%EB%8A%A5.md)|
 |:rocket:3단계 - 인증을 통한 기능 구현|[링크](https://github.com/next-step/atdd-subway-service/pull/102)||
 |:rocket:4단계 - 요금 조회|[링크](https://github.com/next-step/atdd-subway-service/pull/113)||
 
