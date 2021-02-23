@@ -94,7 +94,7 @@
 |구분|리뷰 피드백|요약 정리|
 |---------|------|---|
 |:rocket:1단계 - 테스트를 통한 코드 보호|[링크](https://github.com/next-step/jwp-refactoring/pull/33)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EB%A0%88%EA%B1%B0%EC%8B%9C_%EC%BD%94%EB%93%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/1%EB%8B%A8%EA%B3%84_%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC_%ED%86%B5%ED%95%9C_%EC%BD%94%EB%93%9C_%EB%B3%B4%ED%98%B8.md)|
-|:rocket:2단계 - 서비스 리팩터링|[링크](https://github.com/next-step/jwp-refactoring/pull/57)||
+|:rocket:2단계 - 서비스 리팩터링|[링크](https://github.com/next-step/jwp-refactoring/pull/57)|[링크](https://github.com/mkkim90/2020-woowacource-pro/blob/main/review/%EB%A0%88%EA%B1%B0%EC%8B%9C_%EC%BD%94%EB%93%9C_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81/2%EB%8B%A8%EA%B3%84_%EC%84%9C%EB%B9%84%EC%8A%A4_%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81.md)|
 |:rocket:3단계 - 양방향을 단방향|[링크](https://github.com/next-step/jwp-refactoring/pull/65)||
 |:rocket:4단계 - multi module 적용|[링크](https://github.com/next-step/jwp-refactoring/pull/72)||
 
